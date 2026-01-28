@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../hello_pill"
+		},
+		{
+			"name": "hello_esp",
+			"path": "../../Documents/PlatformIO/Projects/hello_esp"
+		},
+		{
+			"name": "esp",
+			"path": "exercises/01-blink/esp"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {}
+}
