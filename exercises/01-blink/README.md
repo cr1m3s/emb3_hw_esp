@@ -15,3 +15,4 @@
 - використати один GPIO-вивід ESP32.
 
 ![scheme](scheme.png)
+![lights](lights.gif)
